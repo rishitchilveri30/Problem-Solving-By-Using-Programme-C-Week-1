@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
  {
-    int a, b, diff;
+    int a, b,c;
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
-    diff = a - b;
-    printf("Difference = %d\n", diff);
+    c = a - b;
+    printf("Difference = %d\n",c);
     return 0;
 }
