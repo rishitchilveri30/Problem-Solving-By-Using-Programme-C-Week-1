@@ -1,10 +1,7 @@
-//DISPALEMENT(s=ut+1/2at^2)
 #include<stdio.h>
-
-
 float main()
 {
-    float s,u,a,t;//variable declaration
+    float s,u,a,t;
     printf("u:");
     scanf("%f",&u);
     printf("a:");
