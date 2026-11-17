@@ -1,10 +1,7 @@
-//VOLUME OF CUBE
 #include<stdio.h>
-
 int main()
-
 {
-    int side,volume;//variable declartion
+    int side,volume;
     printf("side:");
     scanf("%d",&side);
     volume=side*side*side;
